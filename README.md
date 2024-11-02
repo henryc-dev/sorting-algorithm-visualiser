@@ -8,7 +8,7 @@ Build a visualiser that animates the sorting process of various sorting algorith
 ## Results
 An animation showcases sorting processes of Bubble Sort, Insertion Sort and Selection Sort.
 
-## Improvement
+## Improvements
 1. Add more algorithms.
 2. Use a more high-level and visually appealing library such as Plotly.
 
