@@ -2,7 +2,7 @@
 Build a visualiser that animates the sorting process of various sorting algorithms to assist learning of CS alogrithms. Users can control the steps at their own pace.
 
 <div align="center">
-  <img src="img/anim.gif" alt-"sigmoid" width="500" height="300">
+  <img src="output/anim.gif" alt-"sigmoid" width="500" height="300">
 </div>
 
 ## Results
