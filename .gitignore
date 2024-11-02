@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 # ignore pptx and ipynb 
-/sort_present.pptx
-/visualizer.ipynb
+output/sort_present.pptx
+visualiser.ipynb
+
 
