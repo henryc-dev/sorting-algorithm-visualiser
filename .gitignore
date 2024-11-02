@@ -164,5 +164,5 @@ cython_debug/
 # ignore pptx and ipynb 
 output/sort_present.pptx
 /*.ipynb
-
+/output/*.html
 
